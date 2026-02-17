@@ -6,7 +6,7 @@
 
 - 👋 Hi, I'm @heathermomof2 (Heather Johnson).
 - 👀 I'm interested in learning it all if it makes me money.
-- 🌱 I'm currently learning everything java and coding atlassian etc.
+- 🌱 I'm currently learning everything Java and coding Atlassian etc.
 - 💞️ I'm looking to collaborate on anything cool.
 - 📫 How to reach me: heathermomf2@icloud.com
 
