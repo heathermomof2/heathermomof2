@@ -10,7 +10,10 @@ This is a personal profile repository. For security concerns related to the repo
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability within this repository, please send an email to heathermomf2@icloud.com. 
+If you discover a security vulnerability within this repository, please use one of the following methods:
+
+1. **Preferred**: Use GitHub's private vulnerability reporting feature (Security tab → Report a vulnerability)
+2. **Alternative**: Send an email to heathermomf2@icloud.com
 
 **Please do not create a public GitHub issue for security vulnerabilities.**
 
