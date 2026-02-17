@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @heathermomof2
-- 👀 I’m interested in ...learning it all if it makes me money 
-- 🌱 I’m currently learning ...everything java and coding atlassian etc 
-- 💞️ I’m looking to collaborate on ...anything cool
-- 📫 How to reach me ...heathermomf2@icloud.com
-Heather Johnson
-<!---please can someone show me what it is i need to do to make money
+# heathermomof2
+
+[![Build Status](https://dev.azure.com/heathermomof2/heathermomof2/_apis/build/status/heathermomof2.heathermomof2?branchName=main)](https://dev.azure.com/heathermomof2/heathermomof2/_build/latest?definitionId=1&branchName=main)
+
+## About Me
+
+- 👋 Hi, I'm @heathermomof2 (Heather Johnson)
+- 👀 I'm interested in learning it all if it makes me money 
+- 🌱 I'm currently learning everything java and coding atlassian etc 
+- 💞️ I'm looking to collaborate on anything cool
+- 📫 How to reach me: heathermomf2@icloud.com
+
+## CI/CD
+
+This repository uses Azure Pipelines for continuous integration and deployment. The pipeline configuration can be found in `azure-pipelines.yml`.
+
+### Build Status
+
+The build status badge above shows the current state of the main branch. Click on it to view detailed build information and logs.
+
+---
+
+<!---
 heathermomof2/heathermomof2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->Im a single mom of two stuggling bad and broke. going back to school for bachelors degree. someone show me where the money at...
+--->
