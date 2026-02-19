@@ -14,7 +14,7 @@ If you discover a security vulnerability within this repository, please use GitH
 
 **Preferred Method**: Navigate to the Security tab → Report a vulnerability
 
-For urgent matters or if GitHub's reporting is unavailable, you may also reach out via heathermomf2@icloud.com.
+For urgent matters or if GitHub's reporting is unavailable, you may also reach out via Handyheathers_hjservicesllc@outlook.com.
 
 **Please do not create a public GitHub issue for security vulnerabilities.**
 
